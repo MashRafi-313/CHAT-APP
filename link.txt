@@ -1,0 +1,27 @@
+Timestamps:
+00:00:00 - Demo App
+00:02:18 - Project Setup
+00:12:20 - Auth Routes Setup
+00:23:20 - MongoDB Setup
+00:28:30 - Create User Model 
+00:32:20 - Sign Up Endpoint
+00:45:00 - Generate JWT 
+00:52:50 - Login Endpoint
+00:56:50 - Logout Endpoint
+00:58:50 - Create Message Model
+01:03:10 - Create Conversation Model
+01:06:15 - Send Message Endpoint
+01:10:11 - Protect Route Middleware
+01:25:10 - Get Messages Endpoint
+01:31:20 - Get Users for Sidebar Endpoint
+01:38:19 - UI Design
+02:27:50 - SignUp Functionality
+02:50:00 - Create AuthContext 
+02:59:00 - Logout Functionality
+03:03:20 - Login Functionality
+03:11:50 - Get Conversations
+03:29:00 - Send Message Functionality
+03:35:30 - Get Messages
+03:54:00 - Search Conversation
+03:58:20 - Implementing Socket.io
+04:25:22 - Finally Deployment!
